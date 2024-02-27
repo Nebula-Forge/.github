@@ -1,10 +1,42 @@
-# QUANTUM QUARTET
+# NEBULA FORGE
 
-**Bem-vindo ao Grupo de Desenvolvimento da Positivo - Turma de Análise e Desenvolvimento de Sistemas!**
+**Bem-vindo ao Nebula Forge - Turma de Análise e Desenvolvimento de Sistemas na Universidade Positivo!**
 
-Somos um grupo de estudantes apaixonados pela tecnologia e pelo desenvolvimento de sistemas, atualmente cursando o segundo semestre do curso na Universidade Positivo. Nossa jornada acadêmica é marcada por uma série de disciplinas empolgantes e desafiadoras, que nos prepararam para o mundo da programação e do desenvolvimento de software.
+  Um estudante apaixonado pela tecnologia e desenvolvimento de sistemas, atualmente cursando o terceiro semestre do curso na Universidade Positivo. Minha jornada acadêmica é marcada por uma série de disciplinas empolgantes e desafiadoras, que acabam por me preparar para o mundo da programação e do desenvolvimento de software.
 
-## **Nossas Disciplinas Atuais:**
+## **Linguagens:**
+     ▪ C
+     ▪ HTML
+     ▪ CSS
+     ▪ PHP (BÁSICO)
+     ▪ MySQL
+     ▪ JAVA (BÁSICO-INTERMEDIÁRIO)
+     ▪ PYTHON (BÁSICO)
+     ▪ POSTGRES (INTERMEDIÁRIO)
+     ▪ OBJECT PASCAL (AVANÇADO)
+     ▪ GOLANG (AVANÇADO)
+
+## **Estágio:**
+  Estagiando na empresa de Softwares NAJATEC Tecnologies, atuo como desenvolvedor de servidores backend em Golang e Object Pascal, trabalhando em equipe com outro estagiário que utiliza do PHP para frontend, desenvolvendo servidores que utilizam AWS, Gin Gonic, UPX, conexão e manipulação de dados com Database PostgresSQL, requisições com JSON, Query e Url Params, entre outros. 
+
+## **Disciplinas Atuais:**
+
+    ▪ Desenvolvimento de Sistemas: Introdução dos conceitos de Orientação a Objetos como modelo para a construção de sistemas computacionais básicos. Utilização de conceitos de classes e objetos, criaçãode Diagramas de Classes e aplicação de conceitos de herança e polimorfismo, bem como o acesso a dados utilizando o modelo objeto relacional.
+    
+    ▪ Desenvolvimento de Software: 
+    
+    ▪ Tópicos Especiais de Sistemas: Desenvolvimento de projetos computacionais de backend com uso de C# e .Net Core e projetos computacionais frontend com o uso de frameworks JavaScript. 
+    
+    ▪ Pesquisa Aplicada e Meio Ambiente: Segundo a Organização Mundial da Saúde, no Brasil há uma estimativa de mais de 30 milhõesde animais abandonados...   
+    
+    ▪ Computação em Nuvem:  Apresentação dos conceitos de Computação em Nuvem, Compreender os diferentes modelos e aplicações existentes desse novo modelo de Tecnologia.  
+    
+    ▪ Redes Heterogêneas e Conectividade:
+    
+    ▪ Fundamentos de Estrutura de Dados: Compreender o conceito de ordenação, Apresentar algoritmos de ordenação em pseudocódigo e em C#, Apresentar o conceito de recursão.
+
+
+## **Disciplinas do Segundo Semestre:**
 
     ▪ Algoritmos de Programação: A base sólida da computação começa aqui, explorando algoritmos e lógica de programação.
     
@@ -32,8 +64,6 @@ Somos um grupo de estudantes apaixonados pela tecnologia e pelo desenvolvimento 
     
     ▪ Análise e Projeto de Sistemas: Dominando as habilidades de design e análise de sistemas.
     
-Aqui, compartilhamos conhecimento, colaboramos em projetos e celebramos nossas conquistas. Nosso objetivo é crescer como desenvolvedores de software e criar soluções incríveis juntos.
-
-Junte-se a nós nesta jornada emocionante!
+Meu objetivo é crescer como desenvolvedor de software e criar soluções incríveis.
 
 # **Vamos codificar o futuro!**
