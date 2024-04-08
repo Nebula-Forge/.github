@@ -6,13 +6,14 @@
 
 ## **Linguagens:**
      ▪ C
+     ▪ C# (ESTUDANDO)
      ▪ HTML
      ▪ CSS
-     ▪ PHP (BÁSICO)
+     ▪ PHP (ESTUDANDO)
      ▪ MySQL
-     ▪ JAVA (BÁSICO-INTERMEDIÁRIO)
-     ▪ PYTHON (BÁSICO)
-     ▪ POSTGRES (INTERMEDIÁRIO)
+     ▪ JAVA (ESTUDANDO)
+     ▪ PYTHON (ESTUDANDO)
+     ▪ POSTGRES (AVANÇADO)
      ▪ OBJECT PASCAL (AVANÇADO)
      ▪ GOLANG (AVANÇADO)
 
@@ -21,9 +22,9 @@
 
 ## **Disciplinas Atuais:**
 
-    ▪ Desenvolvimento de Sistemas: Introdução dos conceitos de Orientação a Objetos como modelo para a construção de sistemas computacionais básicos. Utilização de conceitos de classes e objetos, criaçãode Diagramas de Classes e aplicação de conceitos de herança e polimorfismo, bem como o acesso a dados utilizando o modelo objeto relacional.
+    ▪ Desenvolvimento de Sistemas: Desenvolvimento de sistemas front e back com PHP, e PHP OO.
     
-    ▪ Desenvolvimento de Software: 
+    ▪ Desenvolvimento de Software: Introdução dos conceitos de Orientação a Objetos como modelo para a construção de sistemas computacionais básicos. Utilização de conceitos de classes e objetos, criaçãode Diagramas de Classes e aplicação de conceitos de herança e polimorfismo, bem como o acesso a dados utilizando o modelo objeto relacional.
     
     ▪ Tópicos Especiais de Sistemas: Desenvolvimento de projetos computacionais de backend com uso de C# e .Net Core e projetos computacionais frontend com o uso de frameworks JavaScript. 
     
