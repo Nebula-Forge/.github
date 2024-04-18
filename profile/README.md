@@ -18,7 +18,7 @@
      ▪ GOLANG (AVANÇADO)
 
 ## **Estágio:**
-  Estagiando na empresa de Softwares NAJATEC Tecnologies, atuo como desenvolvedor de servidores backend em Golang e Object Pascal, trabalhando em equipe com outro estagiário que utiliza do PHP para frontend, desenvolvendo servidores que utilizam AWS, Gin Gonic, UPX, conexão e manipulação de dados com Database PostgresSQL, requisições com JSON, Query e Url Params, entre outros. 
+  Estagiando na empresa de Softwares NAJATEC Tecnologies, atuo como desenvolvedor de servidores backend em Golang e Object Pascal, trabalhando em equipe com outro estagiário que utiliza do PHP para frontend, desenvolvendo servidores que utilizam AWS, Gin Gonic, UPX, conexão e manipulação de dados com Database PostgresSQL, requisições com JSON, APIs REST. 
 
 ## **Disciplinas Atuais:**
 
